@@ -1,6 +1,6 @@
 ### Velocity
 Definition: The number of requests you can process while maintain a highly available services\
-Achieved by:\
+Achieved by:
 1. Immutability
 3. Declarative configuration
 4. Online Self-healing systems
